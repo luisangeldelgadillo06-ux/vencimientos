@@ -1,5 +1,5 @@
 # 🛒 Sistema de Control de Vencimientos para Minimarket
-**Desarrollador:** Luis Ángel Delgadillo  
+**Desarrollador:** Luis Ángel Granados Delgadillo  
 **Rol:** Full Stack Developer (Proyecto Personal Autónomo)  
 **Contacto:** luisangeldelgadillo06@gmail.com
 
